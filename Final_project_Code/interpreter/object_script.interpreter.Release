@@ -1,0 +1,14 @@
+INPUT(
+./release\Api.o
+./release\BufferManager.o
+./release\catalogManager.o
+./release\condition.o
+./release\Index_manager.o
+./release\main.o
+./release\recordManager.o
+./release\semanticErrorJudger.o
+./release\sqlResult.o
+./release\synaxErrorJudger.o
+./release\tableInfo.o
+./release\value.o
+);

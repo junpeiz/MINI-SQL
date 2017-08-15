@@ -1,0 +1,26 @@
+﻿Build started 2016/6/16 13:51:04.
+     1>Project "D:\Users\visual studio 2013\Projects\interpreter\interpreter\interpreter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /ID:\Qt\Qt5.3.0\5.3\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.3.0\5.3\msvc2013_64\include\QtCore /ID:\Qt\Qt5.3.0\5.3\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Api.cpp sqlResult.cpp
+         Api.cpp
+         sqlResult.cpp
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\visual studio 2013\Projects\interpreter\x64\Debug\\interpreter.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.3.0\5.3\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\visual studio 2013\Projects\interpreter\x64\Debug\interpreter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\visual studio 2013\Projects\interpreter\x64\Debug\interpreter.lib" /MACHINE:X64 x64\Debug\Api.obj
+         x64\Debug\BufferManager.obj
+         x64\Debug\catalogManager.obj
+         x64\Debug\condition.obj
+         x64\Debug\Index_manager.obj
+         x64\Debug\main.obj
+         x64\Debug\recordManager.obj
+         x64\Debug\semanticErrorJudger.obj
+         x64\Debug\sqlResult.obj
+         x64\Debug\synaxErrorJudger.obj
+         x64\Debug\tableInfo.obj
+         x64\Debug\value.obj
+         interpreter.vcxproj -> D:\Users\visual studio 2013\Projects\interpreter\x64\Debug\interpreter.exe
+     1>Done Building Project "D:\Users\visual studio 2013\Projects\interpreter\interpreter\interpreter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.01

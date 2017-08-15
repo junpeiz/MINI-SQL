@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tableInfo" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAEAAAAAQAgEABAAAgABQAACA=</HashCode>
+      <FileName>tableInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="value" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgCCCAAAAKAIAAABAABIgBAAAAAASABgAAoAAogAAA=</HashCode>
+      <FileName>value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Index_info" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAABAAAAAAgABAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Index_info.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="synaxErrorJudger" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IDkAA5LAACLABDACAAAgAAACEQAIAYHwWCQLQQCBQAA=</HashCode>
+      <FileName>synaxErrorJudger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="condition" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAqYABAIAAAAAAAAAAIgAAAwABAAAAAAgAQAAAAA=</HashCode>
+      <FileName>condition.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="semanticErrorJudger" Collapsed="true">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAEAAAgAABQAAAQAAAAAIACwAECAAAAAAgQAAAA=</HashCode>
+      <FileName>semanticErrorJudger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

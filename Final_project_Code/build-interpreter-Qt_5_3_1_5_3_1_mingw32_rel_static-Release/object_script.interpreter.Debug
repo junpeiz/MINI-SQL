@@ -1,0 +1,15 @@
+INPUT(
+./debug\Api.o
+./debug\BufferManager.o
+./debug\catalogManager.o
+./debug\condition.o
+./debug\Index_manager.o
+./debug\main.o
+./debug\recordManager.o
+./debug\semanticErrorJudger.o
+./debug\sqlResult.o
+./debug\synaxErrorJudger.o
+./debug\tableInfo.o
+./debug\value.o
+./debug\interpreter_plugin_import.o
+);
